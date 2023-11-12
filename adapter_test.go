@@ -16,6 +16,7 @@ package gormadapter
 
 import (
 	"fmt"
+	"gorm.io/driver/sqlite"
 	"log"
 	"os"
 	"strings"
