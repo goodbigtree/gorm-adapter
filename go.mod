@@ -1,4 +1,4 @@
-module github.com/goodbigtree/gorm-adapter/v3
+module github.com/goodbigtree/gorm-adapter
 
 go 1.14
 
